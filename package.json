@@ -1,0 +1,11 @@
+{
+  "name": "WebAssignmentOne",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MarvinMatherson/WebAssignmentOne.git",
+  "author": "Marvin Matherson <55834622+MarvinMatherson@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
